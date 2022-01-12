@@ -1,4 +1,4 @@
 ## README
 This is a README. Will be updated soon.
 
-Triggering build flow.
+Trigger build
